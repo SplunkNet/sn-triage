@@ -8,6 +8,7 @@
         <dynamic_title_structure/>
         <id>tda_list</id>
         <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
         <public>true</public>
         <roles/>
         <short_description/>

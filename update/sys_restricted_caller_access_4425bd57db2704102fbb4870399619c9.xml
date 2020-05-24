@@ -18,7 +18,7 @@
         <sys_update_name>sys_restricted_caller_access_4425bd57db2704102fbb4870399619c9</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-19 21:30:11</sys_updated_on>
-        <target name="x_0505_triage_triage_result" target_table="sys_db_object">48a1d04adbe340102fbb487039961936</target>
+        <target name="x_0505_triage_triage_result" target_table="sys_db_object">6d3d2bd01b4d50107ccac9541a4bcb64</target>
         <target_scope display_value="Triage">9de3c40adba340102fbb487039961988</target_scope>
         <target_table>sys_db_object</target_table>
         <target_type>1</target_type>
